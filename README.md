@@ -1,1 +1,1 @@
-# GitHub-HuongGiang_AI3_SIC
+# BaiKiemTra_AI3_SIC_HuongGiang
